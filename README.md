@@ -103,6 +103,6 @@ Future Improvements
 * Add database for prediction history
 * Add symptom-based text classification system
 
-Author 
+Author :
 Guntaka Bindu Sri
 
